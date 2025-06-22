@@ -1,0 +1,53 @@
+{
+  "apps": [
+    {
+      "name": "IBO Player",
+      "version": "v4.3",
+      "description": "Experience the all-new IBO Player – now faster and smoother than ever before (Does not work on devices dated older than 2023)",
+      "icon": "https://i.ibb.co/cKDd6Sdh/file-00000000476c61f49e57cf5d3ec46f4c.png",
+      "apkUrl": "https://c4e.site/Phntntva6565.apk"
+    },
+    {
+      "name": "XCIPTV Player",
+      "version": "v1001",
+      "description": "The latest and improved XCIPTV Player for reliable streaming across all platforms (Perfect for all devices including older gen)",
+      "icon": "https://i.ibb.co/tT6YKfLt/OPSIMUS-PRIME-XC.jpg",
+      "apkUrl": "http://aftv.news/6691098"
+    },
+    {
+      "name": "VU Player Pro (Sky Glass Edition)",
+      "version": "v2.3",
+      "description": "From the makers of IBO – VU Player Pro delivers premium streaming in a sleek Sky Glass-inspired interface",
+      "icon": "https://i.ibb.co/FcHMzTL/Sky-Glass-Player-Pro.jpg",
+      "apkUrl": "http://aftv.news/462372"
+    },
+    {
+      "name": "Pokemon IBO (Pokemon Edition)",
+      "version": "v4.3",
+      "description": "A playful, Pokémon-themed version of IBO Player – great for kids’ rooms (Does not work on devices dated older than 2023)",
+      "icon": "https://i.ibb.co/G3dyKDML/Pokemon.jpg",
+      "apkUrl": "http://aftv.news/4458331"
+    },
+    {
+      "name": "VPN SHOP",
+      "version": "v3.1",
+      "description": "Our top-rated VPN – built to work seamlessly with all streaming apps and services",
+      "icon": "https://i.ibb.co/wFgS9kGX/Whitelabel-Vpn.jpg",
+      "apkUrl": "http://aftv.news/814457"
+    },
+    {
+      "name": "MX Media Player",
+      "version": "v1.96.4",
+      "description": "A lightweight, powerful media player compatible with most video formats",
+      "icon": "https://i.ibb.co/QF5Vzr3N/MX-Player.jpg",
+      "apkUrl": "https://dl.dropboxusercontent.com/scl/fi/30v3kq23g27lpqrpgu23b/MX-Player.apk?rlkey=2pzqyszmuvefkjht3q47brt1b"
+    },
+    {
+      "name": "VLC Media Player",
+      "version": "v3.6.5",
+      "description": "Trusted and versatile media player with support for nearly every format",
+      "icon": "https://i.ibb.co/7dyDDfQR/VLC.jpg",
+      "apkUrl": "https://dl.dropboxusercontent.com/scl/fi/d8e1soc1369yscxnj0gpx/vlc-3-6-5.apk?rlkey=vgf88bxzpefm4jt7rorb1ny1c"
+    }
+  ]
+}
